@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halit Mustafa Karagoz</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-<img align="right" alt="coding" width="400" src="https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2020/05/02124829/Software-Engineer-1024x512.png">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa-krgoz&label=Profile%20views&color=0e75b6&style=flat" alt="mustafa-krgoz" /> </p>
 
