@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa-krgoz&label=Profile%20views&color=0e75b6&style=flat" alt="mustafa-krgoz" /> </p>
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mustafa-krgoz](https://github.com/mustafa-krgoz)
 
